@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **Adityayadav44556@gmail.com**
 
-- ⚡ Fun fact - **I play Cricket and solve Sudoku very often.**
+- ⚡ Fun fact - **I play Cricket ![image](https://user-images.githubusercontent.com/77524835/125412441-8f372c00-e3dc-11eb-9804-93a942fa0b3f.png)
+ and solve Sudoku very often.**
 
 ## 🚀 Languages and Tools:
 
