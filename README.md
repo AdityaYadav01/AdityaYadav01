@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Flutter and Android Studio**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
