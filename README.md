@@ -69,10 +69,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aditya-yadav-969440200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aditya__yadavv"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aditya__yadavv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC6nlfg_dg_DaygnJ_M9tbSg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/aditya--yadav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 </p>
 
