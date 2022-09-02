@@ -1,14 +1,14 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">I'm a passionate Android Developer from India.</h3>
+<h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Express and MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
