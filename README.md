@@ -73,6 +73,7 @@
 <a href = "https://twitter.com/Yadav_Aditya6"><img src="https://img.icons8.com/color/512/twitter.png" width="50" height="50"></a>
 <a href = "https://www.instagram.com/yadavv.adityaa/"><img src="https://img.icons8.com/3d-fluency/512/instagram-new.png" width="50" height="50"></a>
 <a href = "https://www.youtube.com/channel/UCgP_iRCIQAY36yTQ_Vd4IvA"><img src="https://img.icons8.com/color/512/youtube-play.png" width="50" height="50"></a>
+<a href = "https://tealfeed.com/aditya.yadav"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/sin2o2rm6td9tfhyycci" width="50" height="50"></a>
 
 
 
