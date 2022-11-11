@@ -70,6 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aditya--yadav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Yadav_Aditya6"><img src="https://img.icons8.com/color/512/twitter.png"></a>
 
 
 </p>
