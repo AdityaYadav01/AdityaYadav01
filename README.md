@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Library Management System**
+- 🔭 I’m currently working on **Roommate Finder**
 
 - 🌱 I’m currently learning **Express and MongoDB**
 
