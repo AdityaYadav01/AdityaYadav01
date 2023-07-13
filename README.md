@@ -1,4 +1,4 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+![MasterHead](https://blog.imarticus.org/wp-content/uploads/2021/03/hhhee.gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">I'm a Passionate JAVA Developer from India.</h3>
