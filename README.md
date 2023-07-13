@@ -1,14 +1,14 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">I'm a passionate web developer from India.</h3>
+<h3 align="center">I'm a Passionate JAVA Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Roommate Finder**
 
-- 🌱 I’m currently learning **Express and MongoDB**
+- 🌱 I’m currently learning **Spring and Hibernate**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Adityayadav44556@gmail.com**
 
-- ⚡ Fun fact - **I play Cricket🏏 and solve Sudoku very often.**
+- ⚡ Fun fact - **I love to Workout🏋 and solve Sudoku🔢 very often.**
 
 ## 🚀 Languages and Tools:
 
