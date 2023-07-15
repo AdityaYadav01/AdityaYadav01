@@ -61,8 +61,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a href="https://github.com/AdityaYadav01/github-readme-activity-graph"><img alt="Aditya Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaYadav01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--a href="https://github.com/AdityaYadav01/github-readme-activity-graph"><img alt="Aditya Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaYadav01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
